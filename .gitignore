@@ -20,6 +20,8 @@ node_modules
 example/dist
 .publish
 
+package-lock.json
+
 # Editor and other tmp files
 *.swp
 *.un~
